@@ -1,3 +1,3 @@
 # READ ME FIRST
 
-some description!
+Some description.
